@@ -1,0 +1,135 @@
+{
+    "lawyers": [
+      {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "specialty": ["Divorce", "Family Law"],
+        "location": "Delhi",
+        "image":"https://images.generated.photos/ONwZcsz8XkXVTwMRuiBxR9WiVzYBLb6syVuu-mrWVkg/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDY3Nzc4LmpwZw.jpg",
+        "costPerAppointment": 1500,
+        "availability": [
+          "2025-10-25T09:00:00",
+          "2025-10-25T09:30:00",
+          "2025-10-25T10:00:00",
+          "2025-10-25T10:30:00"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Priya Singh",
+        "specialty": ["Criminal Law", "Property Dispute"],
+        "location": "Mumbai",
+        "image":"https://images.generated.photos/F46n-_Vik3phLILcavTBAV3y1U-z6yMvRsP0brbqT1k/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MjIxMTQ5LmpwZw.jpg",
+        "costPerAppointment": 2000,
+        "availability": [
+          "2025-10-25T11:00:00",
+          "2025-10-25T11:30:00",
+          "2025-10-25T12:00:00"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Arjun Mehta",
+        "specialty": ["Corporate Law", "Contract Law"],
+        "location": "Bangalore",
+        "image":"https://images.generated.photos/XseL4wL90dZemmwY8Q2Qw9X8PAe0AwYMOwHpCQrdNzg/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDIzMTAwLmpwZw.jpg",
+        "costPerAppointment": 2500,
+        "availability": [
+          "2025-10-25T14:00:00",
+          "2025-10-25T14:30:00",
+          "2025-10-25T15:00:00",
+          "2025-10-25T15:30:00"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Ananya Reddy",
+        "specialty": ["Divorce", "Child Custody"],
+        "location": "Hyderabad",
+        "image":"https://images.generated.photos/0AB5FYjzbiYzkiCJvE_zDbExsxCtb6zAdQOWrtCW8WM/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjU5MDI5LmpwZw.jpg",
+        "costPerAppointment": 1800,
+        "availability": [
+          "2025-10-25T16:00:00",
+          "2025-10-25T16:30:00"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Vikram Patel",
+        "specialty": ["Property Dispute", "Real Estate Law"],
+        "location": "Ahmedabad",
+        "image":"https://images.generated.photos/ZnGlbyYrm_CP_9oiZ7o5WesLSt7slosOAHdg-58MMSI/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NDY5MzIwLmpwZw.jpg",
+        "costPerAppointment": 2200,
+        "availability": [
+          "2025-10-25T17:00:00",
+          "2025-10-25T17:30:00",
+          "2025-10-25T18:00:00"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Neha Kapoor",
+        "specialty": ["Intellectual Property", "Patent Law"],
+        "location": "Pune",
+        "image":"https://images.generated.photos/Y6NCe9SqqJmMdZzRg5lrSSxPEgkQwtr70M_Vw91eWgk/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/ODM4MTY0LmpwZw.jpg",
+        "costPerAppointment": 3000,
+        "availability": [
+          "2025-10-25T10:00:00",
+          "2025-10-25T10:30:00",
+          "2025-10-25T11:00:00"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Rajesh Khanna",
+        "specialty": ["Tax Law", "GST Advisory"],
+        "location": "Chennai",
+        "image":"https://images.generated.photos/BlRbyfeD3ZybkdYC7fW5UGFaxMkE06mY5teg61YHEQs/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjEwNzcyLmpwZw.jpg",
+        "costPerAppointment": 2800,
+        "availability": [
+          "2025-10-25T13:00:00",
+          "2025-10-25T13:30:00",
+          "2025-10-25T14:00:00"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Sneha Desai",
+        "specialty": ["Labour Law", "Employment Disputes"],
+        "location": "Kolkata",
+        "image":"https://images.generated.photos/3eN99CTXpIenLVE0fLl7Q_KEEfuCxP4-sn_Nh32cgzw/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MTc0MTM0LmpwZw.jpg",
+        "costPerAppointment": 1700,
+        "availability": [
+          "2025-10-25T15:00:00",
+          "2025-10-25T15:30:00",
+          "2025-10-25T16:00:00"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Amit Joshi",
+        "specialty": ["Cyber Law", "Data Privacy"],
+        "location": "Gurgaon",
+        "image":"https://images.generated.photos/1VLviZsK8w7WEPE4Et7mXLvQpUBCNJp3GwPhDHfnr9Y/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/NjU1NzE0LmpwZw.jpg",
+        "costPerAppointment": 3500,
+        "availability": [
+          "2025-10-25T12:00:00",
+          "2025-10-25T12:30:00",
+          "2025-10-25T13:00:00"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Kavita Rao",
+        "specialty": ["Immigration Law", "Visa Consultancy"],
+        "location": "Bengaluru",
+        "image":"https://images.generated.photos/u9jwmct89agYULc-Und0qfd4Cosdz5XAZnpYhB3BJZs/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/Mjk4MzAzLmpwZw.jpg",
+        "costPerAppointment": 4000,
+        "availability": [
+          "2025-10-25T18:00:00",
+          "2025-10-25T18:30:00",
+          "2025-10-25T19:00:00"
+        ]
+      }
+    ]
+  }
