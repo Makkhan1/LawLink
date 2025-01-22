@@ -20,7 +20,7 @@ const lawyersSlice = createSlice({
   name: 'lawyers',
   initialState: initialState.lawyers,
   reducers: {
-    setLawyers: (state, action: PayloadAction<Lawyer[]>) => action.payload
+    setLawyers: (_state, action: PayloadAction<Lawyer[]>) => action.payload
   }
 });
 
